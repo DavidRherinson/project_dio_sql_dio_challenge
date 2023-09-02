@@ -27,4 +27,4 @@ Nesta etapa, você definirá desde o esquema até a implementação do banco de 
 - Defina ordenações dos dados com ORDER BY;
 - Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados.
 
-- ### Projeto em densenvolvimento
+- ### Projeto em desenvolvimento
